@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/list_item_height"
+    android:background="@color/tan_background" >
+
+    <ImageView
+    android:id="@+id/image"
+    android:src="@mipmap/ic_launcher"
+    android:layout_width="@dimen/list_item_height"
+    android:layout_height="@dimen/list_item_height"/>
+
+    <LinearLayout
+        android:id="@+id/twoTextTrans"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="@dimen/list_item_height"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/verJap"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="Sample Jap Text"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/verEng"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:textColor="@android:color/white"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="Sample Eng Trans"/>
+
+    </LinearLayout>
+
+</LinearLayout>

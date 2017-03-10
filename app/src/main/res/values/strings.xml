@@ -1,0 +1,105 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Japanese</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases (フレーズ)</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors (色)</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers (数字)</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members (家族)</string>
+
+    <string name="number_one_jap">一</string>
+
+    <string name="number_two_jap">二</string>
+
+    <string name="number_three_jap">三</string>
+
+    <string name="number_four_jap">四</string>
+
+    <string name="number_five_jap">五</string>
+
+    <string name="number_six_jap">六</string>
+
+    <string name="number_seven_jap">七</string>
+
+    <string name="number_eight_jap">八</string>
+
+    <string name="number_nine_jap">九</string>
+
+    <string name="number_ten_jap">十</string>
+
+    <string name="family_father">お父さん</string>
+
+    <string name="family_mother">お母さん</string>
+
+    <string name="family_son">息子</string>
+
+    <string name="family_daughter">娘</string>
+
+    <string name="family_brother">兄さん</string>
+
+    <string name="family_lBrother">弟</string>
+
+    <string name="family_sister">お姉さん</string>
+
+    <string name="family_lSister">妹</string>
+
+    <string name="family_grandMother">祖母</string>
+
+    <string name="family_grandFather">祖父</string>
+
+    <string name="colors_red">赤</string>
+
+    <string name="colors_green">緑</string>
+
+    <string name="colors_brown">褐</string>
+
+    <string name="colors_gray">灰</string>
+
+    <string name="colors_black">黒</string>
+
+    <string name="colors_yellow">黄</string>
+
+    <string name="colors_white">白</string>
+
+    <string name="phrase_goodmorning">おはようございます!</string>
+
+    <string name="phrase_hello">こんにちは!</string>
+
+    <string name="phrase_name">私の名前は...</string>
+
+    <string name="phrase_thanks">ありがとうございます!</string>
+
+    <string name="phrase_goodluck">がんばって！</string>
+
+    <string name="phrase_please">お願い</string>
+
+    <string name="phrase_meet">はじめまして</string>
+
+    <string name="phrase_getAlong">よろしくおねがいします!</string>
+
+    <string name="phrase_welldone">ごくろさまでした</string>
+
+    <string name="phrase_howareyou">お元気ですか?</string>
+
+</resources>

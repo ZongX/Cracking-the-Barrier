@@ -1,0 +1,88 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Français</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Les phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Les couleurs</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Les nombres</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">La famille</string>
+
+    <string name="number_one_jap">Un</string>
+
+    <string name="number_two_jap">Deux</string>
+
+    <string name="number_three_jap">Trois</string>
+
+    <string name="number_four_jap">Quatre</string>
+
+    <string name="number_five_jap">Cinq</string>
+
+    <string name="number_six_jap">Six</string>
+
+    <string name="number_seven_jap">Sept</string>
+
+    <string name="number_eight_jap">Huit</string>
+
+    <string name="number_nine_jap">Neuf</string>
+
+    <string name="number_ten_jap">Dix</string>
+
+    <string name="family_father">Le père</string>
+
+    <string name="family_mother">La mère</string>
+
+    <string name="family_son">Le fils</string>
+
+    <string name="family_daughter">La fille</string>
+
+    <string name="family_brother">Le frère</string>
+
+    <string name="family_lBrother">Le frérot</string>
+
+    <string name="family_sister">La soeur</string>
+
+    <string name="family_lSister">La petite soeur</string>
+
+    <string name="family_grandMother">La grand-mère</string>
+
+    <string name="family_grandFather">Le grand-père</string>
+    <string name="colors_black">Noir(e)</string>
+    <string name="colors_brown">Brun(e)</string>
+    <string name="colors_gray">Gris(e)</string>
+    <string name="colors_green">Vert(e)</string>
+    <string name="colors_red">Rouge</string>
+    <string name="colors_white">Blanc</string>
+    <string name="colors_yellow">Jaune</string>
+    <string name="phrase_getAlong">Plaisir de faire votre connaissance</string>
+    <string name="phrase_goodluck">Bonne chance!</string>
+    <string name="phrase_goodmorning">Bonjour</string>
+    <string name="phrase_hello">Salut!</string>
+    <string name="phrase_howareyou">Comment ca-va?</string>
+    <string name="phrase_meet">Ravi de vous rencontrer</string>
+    <string name="phrase_name">Je m\'appelle...</string>
+    <string name="phrase_please">S\'il vous plaît</string>
+    <string name="phrase_thanks">Merci beaucoup!</string>
+    <string name="phrase_welldone">Bon travail!</string>
+
+</resources>
