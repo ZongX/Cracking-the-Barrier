@@ -1,6 +1,4 @@
-package com.example.android.miwok;
-
-import android.media.Image;
+package com.example.android.cracking_barrier;
 
 /**
  * Created by EliteBook 8570w on 3/4/2017.

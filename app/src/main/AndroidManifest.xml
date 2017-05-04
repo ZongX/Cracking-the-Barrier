@@ -14,15 +14,15 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.miwok">
+    package="com.example.android.cracking_barrier">
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/sponsorship"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.android.cracking_barrier.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -30,21 +30,29 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".NumbersActivity"
+            android:name="com.example.android.cracking_barrier.NumbersActivity"
             android:label="Numbers"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName="com.example.android.cracking_barrier.MainActivity"/>
         <activity
-            android:name=".PhrasesActivity"
+            android:name="com.example.android.cracking_barrier.PhrasesActivity"
             android:label="Phrases"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName="com.example.android.cracking_barrier.MainActivity"/>
         <activity
-            android:name=".FamilyActivity"
+            android:name="com.example.android.cracking_barrier.FamilyActivity"
             android:label="Family"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName="com.example.android.cracking_barrier.MainActivity"/>
         <activity
-            android:name=".ColorsActivity"
+            android:name="com.example.android.cracking_barrier.ColorsActivity"
             android:label="Colors"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName="com.example.android.cracking_barrier.MainActivity"/>
+        <activity
+            android:name="com.example.android.cracking_barrier.CustomActivity"
+            android:label="Custom"
+            android:parentActivityName="com.example.android.cracking_barrier.MainActivity"/>
+        <activity
+            android:name="com.example.android.cracking_barrier.EditorActivity"
+            android:label="Editor"
+            android:parentActivityName="com.example.android.cracking_barrier.CustomActivity"/>
     </application>
 
 </manifest>
